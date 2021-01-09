@@ -1,5 +1,6 @@
 # Simple Blog
 Simple Blog is a free Tailwind CSS template by Easy Tailwind.
+You can preview it [here](https://etwsimpleblog.now.sh/)
 
 # Contributing
 Fork, edit and pull request!
