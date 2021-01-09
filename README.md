@@ -2,7 +2,7 @@
 Simple Blog is a free Tailwind CSS template by Easy Tailwind.
 
 # Contributing
-Edit the files you want, then create a pull request.
+Fork, edit and pull request!
 Rules:
 
 1. **Do not** make breaking changes
